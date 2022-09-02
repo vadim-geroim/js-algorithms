@@ -1,4 +1,3 @@
-
 const { expect } = require('@jest/globals');
 const fact = require('./02-factorial-number');
 
